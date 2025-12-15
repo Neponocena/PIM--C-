@@ -16,6 +16,8 @@ namespace PIM
             Console.WriteLine("4 - Listar turma");
             Console.WriteLine("5 - Editar Aluno");
             Console.WriteLine("6 - Exluir Alunos");
+            Console.WriteLine("7 - Editar Turmas");
+            Console.WriteLine("8 - Remover Turmas");
             Console.WriteLine("-----------------");
             Console.WriteLine("");
 
@@ -29,6 +31,8 @@ namespace PIM
                 case 4: Turmas.Listagem(); break;
                 case 5: Editar.Alunos();break;
                 case 6: Excluir.AlunoS(); break;
+                case 7: Editarr.Turmas();break;
+                case 8: Remover.Turmas();break;
                 default: Mostrar(); break;
             }
 
