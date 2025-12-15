@@ -1,0 +1,14 @@
+C:\Users\45319282885\PIMtxt\bin\Debug\net10.0\PIMtxt.exe
+C:\Users\45319282885\PIMtxt\bin\Debug\net10.0\PIMtxt.deps.json
+C:\Users\45319282885\PIMtxt\bin\Debug\net10.0\PIMtxt.runtimeconfig.json
+C:\Users\45319282885\PIMtxt\bin\Debug\net10.0\PIMtxt.dll
+C:\Users\45319282885\PIMtxt\bin\Debug\net10.0\PIMtxt.pdb
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.AssemblyInfoInputs.cache
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.AssemblyInfo.cs
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.csproj.CoreCompileInputs.cache
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.dll
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\refint\PIMtxt.dll
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.pdb
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.genruntimeconfig.cache
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\ref\PIMtxt.dll
