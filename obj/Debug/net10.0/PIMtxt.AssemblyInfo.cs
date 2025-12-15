@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PIMtxt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8b052671723819f1a8121d4278f8238b836d694")]
 [assembly: System.Reflection.AssemblyProductAttribute("PIMtxt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PIMtxt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

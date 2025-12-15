@@ -12,3 +12,4 @@ C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\refint\PIMtxt.dll
 C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.pdb
 C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.genruntimeconfig.cache
 C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\ref\PIMtxt.dll
+C:\Users\45319282885\PIMtxt\obj\Debug\net10.0\PIMtxt.sourcelink.json
